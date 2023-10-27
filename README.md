@@ -25,11 +25,11 @@ HTSeq |	-a 10; -m union; -s no; -t exon|
 
 **1) Reference fasta file**
 
-ftp://ftp.ensembl.org/pub/release-101/fasta/rattus_norvegicus/dna/Rattus_norvegicus.Rnor_6.0.dna.toplevel.fa.gz
+Fasta file [ftp://ftp.ensembl.org/pub/release-101/fasta/rattus_norvegicus/dna/Rattus_norvegicus.Rnor_6.0.dna.toplevel.fa.gz]
 
 **2)Gene model reference (GTF file)**
 
-ftp://ftp.ensembl.org/pub/release-101/gtf/rattus_norvegicus/Rattus_norvegicus.Rnor_6.0.101.gtf.gz
+GTF [ftp://ftp.ensembl.org/pub/release-101/gtf/rattus_norvegicus/Rattus_norvegicus.Rnor_6.0.101.gtf.gz]
 
 ## Code availability
 
