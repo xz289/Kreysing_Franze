@@ -6,8 +6,6 @@
 
 In this project, we cultured rat hippocampal neurons in mechanically different environments and studied electrical maturation. We compared WT neurons with two different Piezo1 knockdown conditions. These two knockdown conditions were generated in two independent CRISPR-Cas9 KD assays. Each assay is based on four different CRISPR-Cas9 guides targeting the Piezo1 gene. RNA sequencing was used to analyse the pathway leading to the stiffness dependent maturation behaviour.
 
-## SampleTable
-SampleTable_summary.csv [[CSV](SampleTable_summary.csv)]
 
 ## Raw fastqs and processed counts data Availability
 
@@ -34,6 +32,8 @@ ftp://ftp.ensembl.org/pub/release-101/gtf/rattus_norvegicus/Rattus_norvegicus.Rn
 ## Code availability
 
 Custom codes for RNA-sequencing analysis used in this paper are available on on Github (https://github.com/CTR-BFX/Kreysing_Franze, DOI:xxxxxxx).
+
+**DEGs_Rm4R_Analysis_Jan_2024_DESeq2.R**[[R]./Scripts/DEGs_Rm4R_Analysis_Jan_2024_DESeq2.R)]
 
 ## RNASeq analysis Methods
 
