@@ -31,7 +31,11 @@ ftp://ftp.ensembl.org/pub/release-101/gtf/rattus_norvegicus/Rattus_norvegicus.Rn
 
 ## Code availability
 
-Custom codes for RNA-sequencing analysis used in this paper are available on on Github (https://github.com/CTR-BFX/Kreysing_Franze, DOI:xxxxxxx).
+Custom codes for RNA-sequencing analysis used in this paper are available on on Github (https://github.com/CTR-BFX/Kreysing_Franze, DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12742961.svg)](https://doi.org/10.5281/zenodo.12742961)
+
+
 
 **DEGs_Rm4R_Analysis_Jan_2024_DESeq2.R**[[R]./Scripts/DEGs_Rm4R_Analysis_Jan_2024_DESeq2.R)]
 
